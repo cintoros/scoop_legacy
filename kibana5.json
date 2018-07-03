@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.elastic.co/products/kibana",
-    "version": "5.6.1",
-    "url": "https://artifacts.elastic.co/downloads/kibana/kibana-5.6.1-windows-x86.zip",
-    "hash": "sha1:0d5a19de15e6ed3484f32dd77d44c7b7f66b72de",
-    "extract_dir": "kibana-5.6.1-windows-x86",
+    "version": "5.6.10",
+    "url": "https://artifacts.elastic.co/downloads/kibana/kibana-5.6.10-windows-x86.zip",
+    "hash": "sha512:9d43b049207da978cb6346eb5d3f046aaa620d3179b196f024af812c5c99e347278e7d0037b2795796a7a2ae4887d2dddcb21bc7f5aabdc138df96af3bf04ed8",
+    "extract_dir": "kibana-5.6.10-windows-x86",
     "bin": [
         [
             "bin\\kibana.bat",
